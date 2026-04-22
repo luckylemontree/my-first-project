@@ -1,11 +1,12 @@
-body{
-    background-image: url("../images/background-img.jpg");
+body {
+   background-image: url("../images/background-img.jpg");
 }
 
 h1 {
-    color:blue
+    color:blue;
+    border:1px solid blue;
 }
 
 p {
-    font-weight:bold
+    font-weight:bold;
 }
